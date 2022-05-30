@@ -5,7 +5,7 @@
 #' to inquire about who were their playmates.
 #'
 #'
-#' # TODO: test explain C.I.
+#' # TODO: explain C.I.
 #' $C.I.= \frac{number of times A was observed reacting to B}{number of times A
 #' had an opportunity to react to B}$
 #'
